@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\bin\Debug\net6.0\UdemyCurso2.exe
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\bin\Debug\net6.0\UdemyCurso2.deps.json
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\bin\Debug\net6.0\UdemyCurso2.runtimeconfig.json
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\bin\Debug\net6.0\UdemyCurso2.dll
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\bin\Debug\net6.0\UdemyCurso2.pdb
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.dll
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\refint\UdemyCurso2.dll
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.pdb
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\UdemyCurso2.genruntimeconfig.cache
+C:\Users\lucas\source\repos\UdemyCurso2\UdemyCurso2\obj\Debug\net6.0\ref\UdemyCurso2.dll
